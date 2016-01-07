@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.2455197
 color:
   saturation: 0.9903059
   brandStrength: 0.9901177
-  lightness: 0.3936641
+  rhythmicContrast: 0.9924232
   brandColors:
     - '#14141E'
     - '#B5B2B4'
     - '#88919B'
     - '#D8D5D2'
     - '#656E78'
-  rhythmicContrast: 0.9924232
-typography_spectrum: 0.109319
+  lightness: 0.3936641
+layout_spectrum: 1
 name: Yeezy
