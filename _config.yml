@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.2455197
 color:
   saturation: 0.9903059
   brandStrength: 0.9901177
@@ -22,5 +21,6 @@ color:
     - '#D8D5D2'
     - '#656E78'
   lightness: 0.3936641
+typography_spectrum: 0.05913978
 layout_spectrum: 1
 name: Yeezy
