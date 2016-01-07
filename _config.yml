@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.9903059
+  brandStrength: 0.9901177
+  lightness: 0.3936641
+  brandColors:
+    - '#14141E'
+    - '#B5B2B4'
+    - '#88919B'
+    - '#D8D5D2'
+    - '#656E78'
+  rhythmicContrast: 0.9924232
+typography_spectrum: 0.109319
+name: Yeezy
